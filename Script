@@ -1,0 +1,358 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Murder Mystery 2 script by GTAonvova")
+
+
+
+
+local Tab = Window:NewTab("Gun Maker")
+
+
+local Section = Tab:NewSection("Gun Maker")
+
+
+
+Section:NewButton("Dick", "", function()
+
+pl = game.Players.LocalPlayer
+s = pl.Backpack:GetChildren()
+s0 = {}
+for _, x in s do if x:IsA("Folder") then wait() else table.insert(s0, x) end end
+-----------
+s0[1].Grip = CFrame.new(0, 0, 0)
+s0[1].Parent = pl.Character
+s0[2].Grip = CFrame.new(1.5, 0.300000012, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[2].Parent = pl.Character
+s0[3].Grip = CFrame.new(1.0, 0.300000012, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[3].Parent = pl.Character
+s0[4].Grip = CFrame.new(2., 0.300000012, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[4].Parent = pl.Character
+s0[5].Grip = CFrame.new(1.5, -0.700000048, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[5].Parent = pl.Character
+s0[6].Grip = CFrame.new(1.5, -1.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[6].Parent = pl.Character
+s0[7].Grip = CFrame.new(1.5, -2.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[7].Parent = pl.Character
+
+end)
+
+
+Section:NewButton("Small dick", "", function()
+
+pl = game.Players.LocalPlayer
+s = pl.Backpack:GetChildren()
+s0 = {}
+for _, x in s do if x:IsA("Folder") then wait() else table.insert(s0, x) end end
+-----------
+s0[1].Grip = CFrame.new(0, 0, 0)
+s0[1].Parent = pl.Character
+s0[2].Grip = CFrame.new(1.5, 0.300000012, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[2].Parent = pl.Character
+s0[3].Grip = CFrame.new(1.0, 0.300000012, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[3].Parent = pl.Character
+s0[4].Grip = CFrame.new(2., 0.300000012, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[4].Parent = pl.Character
+s0[5].Grip = CFrame.new(1.5, -0.700000048, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[5].Parent = pl.Character
+
+end)
+
+
+
+Section:NewButton("Big Dick", "", function()
+
+pl = game.Players.LocalPlayer
+s = pl.Backpack:GetChildren()
+s0 = {}
+for _, x in s do if x:IsA("Folder") then wait() else table.insert(s0, x) end end
+-----------
+s0[1].Grip = CFrame.new(0, 0, 0)
+s0[1].Parent = pl.Character
+s0[2].Grip = CFrame.new(1.5, 0.300000012, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[2].Parent = pl.Character
+s0[3].Grip = CFrame.new(1.0, 0.300000012, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[3].Parent = pl.Character
+s0[4].Grip = CFrame.new(2., 0.300000012, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[4].Parent = pl.Character
+s0[5].Grip = CFrame.new(1.5, -0.700000048, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[5].Parent = pl.Character
+s0[6].Grip = CFrame.new(1.5, -1.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[6].Parent = pl.Character
+s0[7].Grip = CFrame.new(1.5, -2.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[7].Parent = pl.Character
+s0[8].Grip = CFrame.new(1.5, -3.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[8].Parent = pl.Character
+s0[9].Grip = CFrame.new(1.5, -4.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[9].Parent = pl.Character
+s0[10].Grip = CFrame.new(1.5, -5.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[10].Parent = pl.Character
+
+end)
+
+
+
+Section:NewButton("Very Big Dick", "", function()
+
+pl = game.Players.LocalPlayer
+s = pl.Backpack:GetChildren()
+s0 = {}
+for _, x in s do if x:IsA("Folder") then wait() else table.insert(s0, x) end end
+-----------
+s0[1].Grip = CFrame.new(0, 0, 0)
+s0[1].Parent = pl.Character
+s0[2].Grip = CFrame.new(1.5, 0.300000012, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[2].Parent = pl.Character
+s0[3].Grip = CFrame.new(1.0, 0.300000012, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[3].Parent = pl.Character
+s0[4].Grip = CFrame.new(2., 0.300000012, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[4].Parent = pl.Character
+s0[5].Grip = CFrame.new(1.5, -0.700000048, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[5].Parent = pl.Character
+s0[6].Grip = CFrame.new(1.5, -1.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[6].Parent = pl.Character
+s0[7].Grip = CFrame.new(1.5, -2.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[7].Parent = pl.Character
+s0[8].Grip = CFrame.new(1.5, -3.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[8].Parent = pl.Character
+s0[9].Grip = CFrame.new(1.5, -4.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[9].Parent = pl.Character
+s0[10].Grip = CFrame.new(1.5, -5.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[10].Parent = pl.Character
+s0[11].Grip = CFrame.new(1.5, -6.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[11].Parent = pl.Character
+s0[12].Grip = CFrame.new(1.5, -7.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[12].Parent = pl.Character
+s0[13].Grip = CFrame.new(1.5, -8.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[13].Parent = pl.Character
+s0[14].Grip = CFrame.new(1.5, -9.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[14].Parent = pl.Character
+s0[15].Grip = CFrame.new(1.5, -10.70000005, 1.70000005, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[15].Parent = pl.Character
+
+end)
+
+
+
+Section:NewButton("Heart", "", function()
+
+pl = game.Players.LocalPlayer
+s = pl.Backpack:GetChildren()
+s0 = {}
+for _, x in s do if x:IsA("Folder") then wait() else table.insert(s0, x) end end
+-----------
+s0[1].Grip = CFrame.new(0, 0, 0)
+s0[1].Parent = pl.Character
+s0[2].Grip = CFrame.new(0, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[2].Parent = pl.Character
+s0[3].Grip = CFrame.new(2, 0.300000012, -4.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[3].Parent = pl.Character
+s0[4].Grip = CFrame.new(1, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[4].Parent = pl.Character
+s0[5].Grip = CFrame.new(0, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[5].Parent = pl.Character
+s0[6].Grip = CFrame.new(3, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[6].Parent = pl.Character
+s0[7].Grip = CFrame.new(-1, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[7].Parent = pl.Character
+s0[8].Grip = CFrame.new(2, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[8].Parent = pl.Character
+s0[9].Grip = CFrame.new(0, 0.300000012, -4.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[9].Parent = pl.Character
+s0[10].Grip = CFrame.new(1, 0.300000012, -3.29999995, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[10].Parent = pl.Character
+s0[11].Grip = CFrame.new(0, -0.699999988, -0.300000012, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[11].Parent = pl.Character
+
+end)
+
+
+
+Section:NewButton("Sqare", "", function()
+
+pl = game.Players.LocalPlayer
+s = pl.Backpack:GetChildren()
+s0 = {}
+for _, x in s do if x:IsA("Folder") then wait() else table.insert(s0, x) end end
+-----------
+s0[1].Grip = CFrame.new(0, 0, 0)
+s0[1].Parent = pl.Character
+s0[2].Grip = CFrame.new(0, 0.300000012, -3.29999995, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[2].Parent = pl.Character
+s0[3].Grip = CFrame.new(1, 0.300000012, -3.29999995, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[3].Parent = pl.Character
+s0[4].Grip = CFrame.new(2, 0.300000012, -3.29999995, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[4].Parent = pl.Character
+s0[5].Grip = CFrame.new(3, 0.300000012, -3.29999995, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[5].Parent = pl.Character
+s0[6].Grip = CFrame.new(3, 0.300000012, -4.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[6].Parent = pl.Character
+s0[7].Grip = CFrame.new(3, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[7].Parent = pl.Character
+s0[8].Grip = CFrame.new(0, -0.699999988, -0.300000012, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[8].Parent = pl.Character
+s0[9].Grip = CFrame.new(0, 0.300000012, -4.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[9].Parent = pl.Character
+s0[10].Grip = CFrame.new(0, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[10].Parent = pl.Character
+s0[11].Grip = CFrame.new(1, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[11].Parent = pl.Character
+s0[12].Grip = CFrame.new(2, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[12].Parent = pl.Character
+s0[13].Grip = CFrame.new(3, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[13].Parent = pl.Character
+
+end)
+
+
+
+Section:NewButton("Rizz", "", function()
+
+pl = game.Players.LocalPlayer
+s = pl.Backpack:GetChildren()
+s0 = {}
+for _, x in s do if x:IsA("Folder") then wait() else table.insert(s0, x) end end
+-----------
+s0[1].Grip = CFrame.new(0, 0, 0)
+s0[1].Parent = pl.Character
+s0[2].Grip = CFrame.new(1.5, 0.299999952, -3.29999995, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[2].Parent = pl.Character
+s0[3].Grip = CFrame.new(1, 0.300000012, -4.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[3].Parent = pl.Character
+s0[4].Grip = CFrame.new(2, 0.300000012, -4.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[4].Parent = pl.Character
+s0[5].Grip = CFrame.new(0, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[5].Parent = pl.Character
+s0[6].Grip = CFrame.new(1, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[6].Parent = pl.Character
+s0[7].Grip = CFrame.new(2, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[7].Parent = pl.Character
+s0[8].Grip = CFrame.new(3, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[8].Parent = pl.Character
+s0[9].Grip = CFrame.new(-1, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[9].Parent = pl.Character
+s0[10].Grip = CFrame.new(1, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[10].Parent = pl.Character
+s0[11].Grip = CFrame.new(0, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[11].Parent = pl.Character
+s0[12].Grip = CFrame.new(2, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[12].Parent = pl.Character
+s0[13].Grip = CFrame.new(3, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[13].Parent = pl.Character
+s0[14].Grip = CFrame.new(4, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[14].Parent = pl.Character
+s0[15].Grip = CFrame.new(-2, 0.300000012, -7.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[15].Parent = pl.Character
+
+end)
+
+
+
+Section:NewButton("Dick Text", "", function()
+
+pl = game.Players.LocalPlayer
+s = pl.Backpack:GetChildren()
+s0 = {}
+for _, x in s do if x:IsA("Folder") then wait() else table.insert(s0, x) end end
+-----------
+s0[1].Grip = CFrame.new(0, 0, 0)
+s0[1].Parent = pl.Character
+s0[2].Grip = CFrame.new(-2, 0.299999952, -3.29999995, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[2].Parent = pl.Character
+s0[3].Grip = CFrame.new(-2, 0.299999952, -4.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[3].Parent = pl.Character
+s0[4].Grip = CFrame.new(-2, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[4].Parent = pl.Character
+s0[5].Grip = CFrame.new(-2, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[5].Parent = pl.Character
+s0[6].Grip = CFrame.new(-1, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[6].Parent = pl.Character
+s0[7].Grip = CFrame.new(-1, 0.300000012, -3.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[7].Parent = pl.Character
+s0[8].Grip = CFrame.new(0, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[8].Parent = pl.Character
+s0[9].Grip = CFrame.new(0, 0.300000012, -4.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[9].Parent = pl.Character
+s0[10].Grip = CFrame.new(2, 0.300000012, -3.29999995, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[10].Parent = pl.Character
+s0[11].Grip = CFrame.new(2, 0.300000012, -4.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[11].Parent = pl.Character
+s0[12].Grip = CFrame.new(5, 0.300000012, -3.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[12].Parent = pl.Character
+s0[13].Grip = CFrame.new(2, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[13].Parent = pl.Character
+s0[14].Grip = CFrame.new(4, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[14].Parent = pl.Character
+s0[15].Grip = CFrame.new(4, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[15].Parent = pl.Character
+s0[16].Grip = CFrame.new(4, 0.300000012, -4.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[16].Parent = pl.Character
+s0[17].Grip = CFrame.new(4, 0.300000012, -3.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[17].Parent = pl.Character
+s0[18].Grip = CFrame.new(5, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[18].Parent = pl.Character
+s0[19].Grip = CFrame.new(6, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[19].Parent = pl.Character
+s0[20].Grip = CFrame.new(6, 0.300000012, -3.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[20].Parent = pl.Character
+s0[21].Grip = CFrame.new(8, 0.300000012, -4.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[21].Parent = pl.Character
+s0[22].Grip = CFrame.new(8, 0.299999952, -3.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[22].Parent = pl.Character
+s0[23].Grip = CFrame.new(8, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[23].Parent = pl.Character
+s0[24].Grip = CFrame.new(9, 0.300000012, -4.5, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[24].Parent = pl.Character
+s0[25].Grip = CFrame.new(9.5, 0.300000012, -5.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[25].Parent = pl.Character
+s0[26].Grip = CFrame.new(10, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[26].Parent = pl.Character
+s0[27].Grip = CFrame.new(9.5, 0.300000012, -4, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[27].Parent = pl.Character
+s0[28].Grip = CFrame.new(10, 0.300000012, -3.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[28].Parent = pl.Character
+s0[29].Grip = CFrame.new(8, 0.300000012, -6.30000019, 1, 0, 0, 0, 0, -1, 0, 1, 0)
+s0[29].Parent = pl.Character
+end)
+
+--_______________________________________________________________________________________________
+
+
+
+
+local Tab = Window:NewTab("Toggles")
+
+
+local Section = Tab:NewSection("Toggles")
+
+
+
+Section:NewButton("Get Fake Gun", "", function()
+
+local args = {
+    [1] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Gameplay"):WaitForChild("FakeGun"):FireServer(unpack(args))
+
+end)
+
+--_______________________________________________________________________________________________
+
+
+
+
+
+
+
+
+local Tab = Window:NewTab("UI Setting")
+
+
+    local Section = Tab:NewSection("Toggle UI")
+
+Section:NewKeybind("Select Keybind:", "keybind to toggle the gui", Enum.KeyCode.RightControl, function()
+	Library:ToggleUI()
+end)
+
+
+
+
